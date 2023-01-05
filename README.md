@@ -15,3 +15,4 @@ The integration with Telegram makes your alarm center smart and adds the followi
 - Smart insertion function, the alarm will be inserted in "Smart" mode and in case of alarm you will be notified only on Telegram and your Internal/External siren will not sound
 - VPN service for safe and secure maintenance 
 - Internet connection via Wifi, Wired Network, 4G Modem
+![KyoSmart Hardware](https://user-images.githubusercontent.com/87998974/210864289-c6932d88-f45a-4b3d-acb0-fb5de167a889.jpg)
