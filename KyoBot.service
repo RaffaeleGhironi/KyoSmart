@@ -1,0 +1,20 @@
+[Unit]
+Description=KyoBot
+
+[Service]
+ExecStart=/usr/bin/python /home/username/KyoBot/kyobot.py
+# Required on some systems
+WorkingDirectory=/home/username/KyoBot/
+Restart=always
+# Restart service after 10 seconds if node service crashes
+RestartSec=10
+# Output to syslog
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=KyoBot
+User=username
+#Group=<alternate group>
+Environment=NODE_ENV=production PORT=1337
+
+[Install]
+WantedBy=multi-user.target  

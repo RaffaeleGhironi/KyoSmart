@@ -1,0 +1,29 @@
+[
+    {
+        "id": 123456789,
+        "nome": "Raffaele",
+        "cognome": "Ghironi",
+        "admin": "True",
+        "owner": "True",
+        "ins_area1": "True",
+        "ins_area2": "True",
+        "ins_smart": "True",
+        "dis_area1": "True",
+        "dis_area2": "True",
+        "dis_smart": "True",
+        "stato_area1": "True",
+        "stato_area2": "True",
+        "stato_smart": "True",
+        "stato_allarme": "True",
+        "stato_sirena": "True",
+        "stato_guasti": "True",
+        "stato_z1": "True",
+        "stato_z2": "True",
+        "stato_z3": "True",
+        "stato_z4": "True",
+        "stato_z5": "True",
+        "stato_z6": "True",
+        "auto_ins": "True",
+        "video_ver": "True"
+    }
+]
