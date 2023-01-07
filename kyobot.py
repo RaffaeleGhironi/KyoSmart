@@ -2149,7 +2149,7 @@ def callback(cb): # <- passes a CallbackQuery type object to your function
         
     # Callback ee
     elif(cb.data=='cb_ee_cav_si'):
-        bot.send_message(cb.message.chat.id, 'TI CODDIDI !!! 🙈🙈🙈')
+        bot.send_message(cb.message.chat.id, ' !!! 🙈🙈🙈')
     elif(cb.data=='cb_ee_cav_NO'):
         bot.send_message(cb.message.chat.id, 'meno male 😱😱😱')
         
