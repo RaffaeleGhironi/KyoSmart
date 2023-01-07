@@ -10,6 +10,7 @@ The integration with Telegram makes your alarm center smart and adds the followi
 - Notification in case of Insertion / Disarm -Multiuser 
 - Management of Permissions for each user 
 - Changing the names of individual Zones and Areas 
+- Video verification with onfiv cameras associated with the different areas
 - Detailed log 
 - Auto-insertion function, you will be notified if there is no one in case and you will be offered to insert the allarm.
 - Smart insertion function, the alarm will be inserted in "Smart" mode and in case of alarm you will be notified only on Telegram and your Internal/External siren will not sound
