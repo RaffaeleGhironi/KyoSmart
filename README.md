@@ -17,3 +17,5 @@ The integration with Telegram makes your alarm center smart and adds the followi
 - VPN service for safe and secure maintenance 
 - Internet connection via Wifi, Wired Network, 4G Modem
 ![KyoSmart Hardware](https://user-images.githubusercontent.com/87998974/210864289-c6932d88-f45a-4b3d-acb0-fb5de167a889.jpg)
+![Menu](https://user-images.githubusercontent.com/87998974/211140078-5d91d74a-bf8b-4d2d-afa3-3f1a5dfeda8d.png)
+![Stato Impianto](https://user-images.githubusercontent.com/87998974/211140087-1f18e8f9-4c12-4eee-ac01-07b46fc2337d.png)
